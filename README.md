@@ -45,3 +45,5 @@
 #### <img src="images/udacity.png" height="14">[ Quiz: Quidditch Cup](https://github.com/nicksocha-school/udacity-quiz-quidditch-cup)
 
 #### <img src="images/udacity.png" height="14">[ Quiz: What do I Wear?](https://github.com/nicksocha-school/udacity-quiz-what-do-i-wear)
+
+#### <img src="images/javascript30.png" height="27">[ JavaScript Drum Kit](https://github.com/nicksocha-school/wesbos-javascript30-01-javascript-drum-kit)
