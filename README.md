@@ -457,6 +457,20 @@
 
 ##
 
+## <img src="images/css-grid.png" height="27">[ CSS Grid](https://cssgrid.io/)
+
+> Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
+
+> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+
+> > > CSS Grid course can be found at [CSSGrid.io](https://cssgrid.io/)
+
+> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG)
+
+> > > > > Starter files can be found [here](https://github.com/wesbos/css-grid)
+
+##
+
 ## <img src="images/javascript30.png" height="27">[ JavaScript 30](https://javascript30.com/)
 
 > Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
