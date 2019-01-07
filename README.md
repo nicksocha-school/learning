@@ -1,6 +1,106 @@
+<!-- Everything to do with Nick Socha learning image. -->
+
 <img src="images/everything-to-do-with-nick-socha-learning.png">
 
+<!-- Start of 2019 -->
+
+# 2019
+
+<!-- JavaScript: Understanding the Weird Parts -->
+
+## <img src="images/javascript-understanding-the-weird-parts.jpg" height="27">[ JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+> Nick Socha successfully completed the course [ JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) on 01/04/2019 as taught by [Anthony Alicea](https://www.udemy.com/user/anthonypalicea/) on [Udemy](https://www.udemy.com/). Certificate of Completion can be found [here](https://www.udemy.com/certificate/UC-VTULVINM/).
+
+##
+
+<!-- Modern JavaScript From The Beginning -->
+
+## <img src="images/modern-javascript-from-the-beginning.jpg" height="27">[ Modern JavaScript From The Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/)
+
+> Nick Socha successfully completed the course [ Modern JavaScript From The Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/) on 01/01/2019 as taught by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) on [Udemy](https://www.udemy.com/). Certificate of Completion can be found [here](https://www.udemy.com/certificate/UC-19P9RRIO/).
+
+##
+
+<!-- End of 2019 -->
+
+<!-- Start of 2018 -->
+
 # 2018
+
+<!-- CSS Grid -->
+
+## <img src="images/css-grid.png" height="27">[ CSS Grid](https://cssgrid.io/)
+
+> Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
+
+> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+
+> > > CSS Grid course can be found at [CSSGrid.io](https://cssgrid.io/)
+
+> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG)
+
+> > > > > Starter files can be found [here](https://github.com/wesbos/css-grid)
+
+##
+
+<!-- JavaScript 30 -->
+
+## <img src="images/javascript30.png" height="27">[ JavaScript 30](https://javascript30.com/)
+
+> Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
+
+> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+
+> > > JavaScript30 course can be found at [JavaScript30.com](https://javascript30.com/)
+
+> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
+
+> > > > > Starter files can be found [here](https://github.com/wesbos/JavaScript30)
+
+##
+
+<!-- ES6 for Everyone -->
+
+## <img src="images/es6-for-everyone.jpg" height="27">[ ES6 for Everyone](https://es6.io/)
+
+> Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
+
+> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+
+> > > ES6 for Everyone course can be found at [ES6.io](https://es6.io/)
+
+##
+
+<!-- What The Flexbox?! -->
+
+## <img src="images/what-the-flexbox.png" height="27">[ What The Flexbox?!](http://flexbox.io/)
+
+> Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
+
+> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+
+> > > What The Flexbox?! course can be found at [Flexbox.io](http://flexbox.io/)
+
+> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+
+> > > > > Starter files can be found [here](https://github.com/wesbos/What-The-Flexbox)
+
+##
+
+<!-- Mastering Markdown -->
+
+## <img src="images/mastering-markdown.png" height="27">[ Mastering Markdown](http://masteringmarkdown.com/)
+
+> Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
+
+> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+
+> > > Mastering Markdown course can be found at [Masteringmarkdown.com](http://masteringmarkdown.com/)
+
+> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
+
+##
 
 <!-- Project: Animal Trading Cards -->
 
@@ -61,6 +161,8 @@
 
 ##
 
+<!-- Quiz: 99 Bottles of Juice -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: 99 Bottles of Juice](https://github.com/nicksocha-school/udacity-quiz-99-bottles-of-juice)
 
 > #### About
@@ -83,6 +185,8 @@
 
 ##
 
+<!-- Quiz: Another Type of Loop -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: Another Type of Loop](https://github.com/nicksocha-school/udacity-quiz-another-type-of-loop)
 
 > #### About
@@ -100,6 +204,8 @@
 > Check out my results [here](https://nicksocha-school.github.io/udacity-quiz-another-type-of-loop/) by [using the console tab](https://developers.google.com/web/tools/chrome-devtools/console/) in developer tools.
 
 ##
+
+<!-- Quiz: Back to Schoo -->
 
 ## <img src="images/udacity.png" height="20">[ Quiz: Back to School](https://github.com/nicksocha-school/udacity-quiz-back-to-school)
 
@@ -122,6 +228,8 @@
 > Check out my results [here](https://nicksocha-school.github.io/udacity-quiz-back-to-school/) by [using the console tab](https://developers.google.com/web/tools/chrome-devtools/console/) in developer tools.
 
 ##
+
+<!-- Quiz: Build a Triangle -->
 
 ## <img src="images/udacity.png" height="20">[ Quiz: Build a Triangle](https://github.com/nicksocha-school/udacity-quiz-build-a-triangle)
 
@@ -166,6 +274,8 @@
 
 ##
 
+<!-- Quiz: Checking your Balance -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: Checking your Balance](https://github.com/nicksocha-school/udacity-quiz-checking-your-balance)
 
 > #### About
@@ -179,6 +289,8 @@
 > Check out my results [here](https://nicksocha-school.github.io/udacity-quiz-checking-your-balance/) by [using the console tab](https://developers.google.com/web/tools/chrome-devtools/console/) in developer tools.
 
 ##
+
+<!-- Quiz: Countdown, Liftoff! -->
 
 ## <img src="images/udacity.png" height="20">[ Quiz: Countdown, Liftoff!](https://github.com/nicksocha-school/udacity-quiz-countdown-liftoff)
 
@@ -202,6 +314,8 @@
 
 ##
 
+<!-- Quiz: Even or Odd -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: Even or Odd](https://github.com/nicksocha-school/udacity-quiz-even-or-odd)
 
 > #### About
@@ -216,6 +330,8 @@
 > Check out my results [here](https://nicksocha-school.github.io/udacity-quiz-even-or-odd/) by [using the console tab](https://developers.google.com/web/tools/chrome-devtools/console/) in developer tools.
 
 ##
+
+<!-- Quiz: Factorials! -->
 
 ## <img src="images/udacity.png" height="20">[ Quiz: Factorials!](https://github.com/nicksocha-school/udacity-quiz-factorials)
 
@@ -237,6 +353,8 @@
 
 ##
 
+<!-- Quiz: Find my Seat -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: Find my Seat](https://github.com/nicksocha-school/udacity-quiz-find-my-seat)
 
 > #### About
@@ -252,6 +370,8 @@
 > Check out my results [here](https://nicksocha-school.github.io/udacity-quiz-find-my-seat/) by [using the console tab](https://developers.google.com/web/tools/chrome-devtools/console/) in developer tools.
 
 ##
+
+<!-- Quiz: Ice Cream -->
 
 ## <img src="images/udacity.png" height="20">[ Quiz: Ice Cream](https://github.com/nicksocha-school/udacity-quiz-ice-cream)
 
@@ -277,6 +397,8 @@
 
 ##
 
+<!-- Quiz: Inline -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: Inline](https://github.com/nicksocha-school/udacity-quiz-inline)
 
 > #### About
@@ -294,6 +416,8 @@
 > Check out my results [here](https://nicksocha-school.github.io/udacity-quiz-inline/) by [using the console tab](https://developers.google.com/web/tools/chrome-devtools/console/) in developer tools.
 
 ##
+
+<!-- Quiz: JuliaJames -->
 
 ## <img src="images/udacity.png" height="20">[ Quiz: JuliaJames](https://github.com/nicksocha-school/udacity-quiz-juliajames)
 
@@ -313,6 +437,8 @@
 
 ##
 
+<!-- Quiz: Mad Libs -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: Mad Libs](https://github.com/nicksocha-school/udacity-quiz-mad-libs)
 
 > #### About
@@ -324,6 +450,8 @@
 > Check out my results [here](https://nicksocha-school.github.io/udacity-quiz-mad-libs/) by [using the console tab](https://developers.google.com/web/tools/chrome-devtools/console/) in developer tools.
 
 ##
+
+<!-- Quiz: Murder Mystery -->
 
 ## <img src="images/udacity.png" height="20">[ Quiz: Murder Mystery](https://github.com/nicksocha-school/udacity-quiz-murder-mystery)
 
@@ -365,6 +493,8 @@
 
 ##
 
+<!-- Quiz: Musical Groups -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: Musical Groups](https://github.com/nicksocha-school/udacity-quiz-musical-groups)
 
 > #### About
@@ -388,6 +518,8 @@
 
 ##
 
+<!-- Quiz: Navigating the Food Chain -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: Navigating the Food Chain](https://github.com/nicksocha-school/udacity-quiz-navigating-the-food-chain)
 
 > #### About
@@ -407,6 +539,8 @@
 
 ##
 
+<!-- Quiz: One Awesome Message -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: One Awesome Message](https://github.com/nicksocha-school/udacity-quiz-one-awesome-message)
 
 > #### About
@@ -420,6 +554,8 @@
 > Check out my awesome message [here](https://nicksocha-school.github.io/udacity-quiz-one-awesome-message/) by [using the console tab](https://developers.google.com/web/tools/chrome-devtools/console/) in developer tools.
 
 ##
+
+<!-- Quiz: Quidditch Cup -->
 
 ## <img src="images/udacity.png" height="20">[ Quiz: Quidditch Cup](https://github.com/nicksocha-school/udacity-quiz-quidditch-cup)
 
@@ -445,6 +581,8 @@
 
 ##
 
+<!-- Quiz: What do I Wear? -->
+
 ## <img src="images/udacity.png" height="20">[ Quiz: What do I Wear?](https://github.com/nicksocha-school/udacity-quiz-what-do-i-wear)
 
 > #### About
@@ -457,30 +595,4 @@
 
 ##
 
-## <img src="images/css-grid.png" height="27">[ CSS Grid](https://cssgrid.io/)
-
-> Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
-
-> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
-
-> > > CSS Grid course can be found at [CSSGrid.io](https://cssgrid.io/)
-
-> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG)
-
-> > > > > Starter files can be found [here](https://github.com/wesbos/css-grid)
-
-##
-
-## <img src="images/javascript30.png" height="27">[ JavaScript 30](https://javascript30.com/)
-
-> Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
-
-> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
-
-> > > JavaScript30 course can be found at [JavaScript30.com](https://javascript30.com/)
-
-> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
-
-> > > > > Starter files can be found [here](https://github.com/wesbos/JavaScript30)
-
-##
+<!-- End of 2018 -->
