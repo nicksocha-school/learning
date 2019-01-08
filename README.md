@@ -33,14 +33,14 @@
 ## <img src="images/css-grid.png" height="27">[ CSS Grid](https://cssgrid.io/)
 
 > Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
-
-> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
-
-> > > CSS Grid course can be found at [CSSGrid.io](https://cssgrid.io/)
-
-> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG)
-
-> > > > > Starter files can be found [here](https://github.com/wesbos/css-grid)
+>
+> Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+>
+> CSS Grid course can be found at [CSSGrid.io](https://cssgrid.io/)
+>
+> Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG)
+>
+> Starter files can be found [here](https://github.com/wesbos/css-grid)
 
 ##
 
@@ -49,14 +49,14 @@
 ## <img src="images/javascript30.png" height="27">[ JavaScript 30](https://javascript30.com/)
 
 > Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
-
-> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
-
-> > > JavaScript30 course can be found at [JavaScript30.com](https://javascript30.com/)
-
-> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
-
-> > > > > Starter files can be found [here](https://github.com/wesbos/JavaScript30)
+>
+> Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+>
+> JavaScript30 course can be found at [JavaScript30.com](https://javascript30.com/)
+>
+> Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
+>
+> Starter files can be found [here](https://github.com/wesbos/JavaScript30)
 
 ##
 
@@ -65,10 +65,10 @@
 ## <img src="images/es6-for-everyone.jpg" height="27">[ ES6 for Everyone](https://es6.io/)
 
 > Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
-
-> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
-
-> > > ES6 for Everyone course can be found at [ES6.io](https://es6.io/)
+>
+> Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+>
+> ES6 for Everyone course can be found at [ES6.io](https://es6.io/)
 
 ##
 
@@ -77,14 +77,14 @@
 ## <img src="images/what-the-flexbox.png" height="27">[ What The Flexbox?!](http://flexbox.io/)
 
 > Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
-
-> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
-
-> > > What The Flexbox?! course can be found at [Flexbox.io](http://flexbox.io/)
-
-> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
-
-> > > > > Starter files can be found [here](https://github.com/wesbos/What-The-Flexbox)
+>
+> Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+>
+> What The Flexbox?! course can be found at [Flexbox.io](http://flexbox.io/)
+>
+> Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+>
+> Starter files can be found [here](https://github.com/wesbos/What-The-Flexbox)
 
 ##
 
@@ -93,12 +93,12 @@
 ## <img src="images/mastering-markdown.png" height="27">[ Mastering Markdown](http://masteringmarkdown.com/)
 
 > Credit and many thanks to [@wesbos](https://twitter.com/wesbos) for this awesome course.
-
-> > Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
-
-> > > Mastering Markdown course can be found at [Masteringmarkdown.com](http://masteringmarkdown.com/)
-
-> > > > Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
+>
+> Check out all his courses at [https://wesbos.com/courses/](https://wesbos.com/courses/)
+>
+> Mastering Markdown course can be found at [Masteringmarkdown.com](http://masteringmarkdown.com/)
+>
+> Course videos are on YouTube [here](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
 
 ##
 
