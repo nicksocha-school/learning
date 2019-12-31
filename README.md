@@ -6,6 +6,16 @@
 
 # 2019
 
+<!-- WP Elevation Blueprint Course -->
+
+## <img src="images/wpelevation-blueprint-300x231.png" height="27"> [ WP Elevation Blueprint Course](https://www.wpelevation.com/courses/)
+
+> Nick Socha successfully completed the [WP Elevation Blueprint Course](https://www.wpelevation.com/courses/) on 11-08-2019 as taught by [Troy Dean](https://www.wpelevation.com/author/teerock/), [Simon Kelly](https://www.wpelevation.com/author/simon-kelly/), and friends. The course is a 6-week course about mastering essential business skills, practices and techniques needed to build more profitable digital businesses.
+
+<img src="images/blueprint-certificate-300x232.png" height="200">
+
+##
+
 <!-- JavaScript: Understanding the Weird Parts -->
 
 ## <img src="images/javascript-understanding-the-weird-parts.jpg" height="27">[ JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
